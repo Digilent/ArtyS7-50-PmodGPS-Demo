@@ -14,7 +14,10 @@ data is formatted as follows:
 | Number of Satellites |
 
 To set up the demo you will need to open a serial terminal, such as TeraTerm, to
-see the data being printed out.
+see the data being printed out. In order to be able to see the correct display you have to change the Font to
+_Courier_New_ from **Setup -> Font -> Font**. Be careful to have character encoding set to UTF-8. 
+This is found in **Setup -> General -> Language**
+
 Apply the following settings:
 
 | Setting | Value |
